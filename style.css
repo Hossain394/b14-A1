@@ -398,3 +398,15 @@
     color: #aaa;
     font-size: 15px;
 }
+
+
+/* ai generated */
+
+.generated{
+    text-align:center ;
+    margin-top: 200;
+    margin-bottom: 100px;
+}
+.generated h1{
+    color:red;
+}
