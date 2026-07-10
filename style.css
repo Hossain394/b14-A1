@@ -72,6 +72,13 @@
     font-family: "Inter", sans-serif;
     margin-top: 10rem;
 }
+.hero-content span{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    margin-top: 10rem;
+    font-style: italic;
+}
 .hero-content p{
     font-size: 22px;
     font-weight: 400;
