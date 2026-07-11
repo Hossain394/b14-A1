@@ -276,7 +276,7 @@
     /* padding-top: 5px; */
     
 }
-.secure-card-1 p{
+.secure-card-1 ul li{
     font-size: 14px;
     font-weight: 400;
     font-family: "Inter", sans-serif;
@@ -285,7 +285,7 @@
     padding-top: 10px;
     
 }
-.secure-card-2 p{
+.secure-card-2 ul li{
     font-size: 14px;
     font-weight: 400;
     font-family: "Inter", sans-serif;
@@ -294,7 +294,7 @@
     padding-top: 10px;
     
 }
-.secure-card-3 p{
+.secure-card-3 ul li{
     font-size: 14px;
     font-weight: 400;
     font-family: "Inter", sans-serif;
